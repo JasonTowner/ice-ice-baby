@@ -1,0 +1,24 @@
+{
+  "name": "ice-ice-baby",
+  "version": "1.0.0",
+  "description": "if there was a `Promise` yo i'll solve it check out the hook while my dj `revolve`s it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonTowner/ice-ice-baby.git"
+  },
+  "keywords": [
+    "Promise",
+    "vanillaice",
+    "ice-ice-baby"
+  ],
+  "author": "Jason Towner <jsntowner@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonTowner/ice-ice-baby/issues"
+  },
+  "homepage": "https://github.com/JasonTowner/ice-ice-baby"
+}
