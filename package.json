@@ -1,6 +1,6 @@
 {
   "name": "ice-ice-baby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "if there was a `Promise` yo i'll solve it check out the hook while my dj `revolve`s it",
   "main": "index.js",
   "scripts": {
